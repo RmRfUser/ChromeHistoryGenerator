@@ -12,7 +12,7 @@ Currently only works on Windows, but can easily run on Linux/Mac with a few smal
 py.exe generatehistory.py <path_to_url_list>
 ```
 
-The sample URL list is copied from the "Influencer" persona on https://trackthis.link/. 
+The sample URL list is copied from the "Influencer" persona on https://trackthis.link/. You can create your own persona by simply adding a list of URLs to a text file.
 
 ```
 py.exe generatehistory.py influencer.txt
