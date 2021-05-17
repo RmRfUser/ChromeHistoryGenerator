@@ -8,6 +8,8 @@ Currently only works on Windows, but can easily run on Linux/Mac with a few smal
 
 ## Usage
 
+Ensure Chrome is not running, then execute the below command:
+
 ```
 py.exe generatehistory.py <path_to_url_list>
 ```
