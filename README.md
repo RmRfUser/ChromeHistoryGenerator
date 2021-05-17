@@ -11,3 +11,9 @@ Currently only works on Windows, but can easily run on Linux/Mac with a few smal
 ```
 py.exe generatehistory.py <path_to_url_list>
 ```
+
+The sample URL list is copied from the "Influencer" persona on https://trackthis.link/. 
+
+```
+py.exe generatehistory.py influencer.txt
+```
